@@ -16,7 +16,7 @@ api = tweepy.API(auth)
 
 print('ok')
 
-＃ここに自分のIDを
+#ここに自分のIDを
 id = ""
 #api.update_status(status="テスト\nテスト\n\n aaa")←呟けるぞ！
 
